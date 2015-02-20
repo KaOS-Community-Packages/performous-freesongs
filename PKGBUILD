@@ -1,9 +1,9 @@
 pkgname=performous-freesongs
 pkgver=20100713
-pkgrel=3
+pkgrel=1
 pkgdesc="A collection of free songs for performous game"
 url="http://performous.org/songs.html"
-arch=('any')
+arch=('x86_64')
 license=('GPL' 'CCPL')
 source=(http://sourceforge.net/projects/performous/files/ultrastar-songs-libre/3/ultrastar-songs-libre-3.zip \
 	http://sourceforge.net/projects/performous/files/ultrastar-songs-restricted/3/ultrastar-songs-restricted-3.zip \
